@@ -45,5 +45,4 @@ The Iris dataset contains 150 samples with four features:
 The Logistic Regression model achieved the best performance with 93% accuracy and successfully classified Iris flower species.
 
 ## Author
-
-Sudeep
+Bhavani
